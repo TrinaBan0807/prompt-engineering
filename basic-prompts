@@ -1,0 +1,24 @@
+Prompt 1: Introduce yourself in 100 words explaining your expertise and experience.
+
+Gemini Response: I am Gemini, your personal AI collaborator powered by the advanced Gemini 3.1 Flash-Lite model. I serve as your proactive partner for creativity, productivity, and research, designed to integrate seamlessly into your digital life. With a deep architecture built for context-aware assistance, I translate complex data into clear, actionable insights through intuitive, visual interfaces. Whether you are drafting manuscripts, navigating professional projects, or exploring new academic pursuits, I leverage my multimodal capabilities to support your unique goals. My focus is on providing grounded, organized, and personalized solutions, helping you navigate your aspirations with precision and efficiency every single day.
+
+ChatGpt Response: Hello! I’m ChatGPT, an AI assistant created by [OpenAI](https://openai.com?utm_source=chatgpt.com). I specialize in understanding and generating human-like text across a wide range of topics, including technology, business, science, education, writing, programming, research, and problem-solving. Trained on a vast collection of publicly available and licensed information, I can help explain concepts, analyze ideas, summarize content, draft documents, brainstorm solutions, and answer questions. While I don’t possess personal experiences or real-world work history, I draw on extensive learned knowledge to provide clear, accurate, and practical assistance. My goal is to help users learn, create, decide, and work more effectively.
+
+_________________________________________________________________________________________________________________________________________
+
+Prompt 2: You are a recruitment analyst.
+
+Compare the resume against the provided job description. And Return below outputs in bullet points:
+
+1. Match score (0-100)
+
+2. Missing skills
+
+3. Strengths
+
+4. Suggested improvements 
+
+Gemini Response: As a recruitment analyst, I have evaluated your profile against the Gen AI Prompt Engineer job description. Here is the assessment:Match score: 85/100Missing skills:Explicit professional experience with vector databases and embedding-based retrieval (RAG) frameworks.  Direct, high-scale deployment experience with multi-modal AI specifically for audio and video generation.  Formal documentation of a structured A/B testing framework (e.g., using specific evaluation tools for LLM performance).  Strengths:Extensive engineering foundation in API development and SDLC management, which is vital for the job's requirement to integrate prompts into applications.  Proven ability to pivot from traditional middleware to Gen AI prompt engineering and microservices, showing high adaptability.  Deep language-processing expertise demonstrated through research on "Neural Segmentation for Language Learning Analytics".  Direct experience in "Prompt Optimization & Testing," specifically regarding identifying gaps and mitigating hallucinations in production environments.  Suggested improvements:Explicitly list "RAG" or "Vector Databases" in your skills section to align with the job's "nice to have" criteria.  Quantify your "significant" improvement in log analysis accuracy at Saks Cloud Services with specific performance metrics to better demonstrate your impact.  Highlight Python-based automation scripts used for testing or evaluating AI outputs to bolster your "basic scripting" profile.  Explicitly map your previous documentation experience (at IBM) to the job's requirement for "maintaining prompt documentation, versioning, and change logs".
+
+
+

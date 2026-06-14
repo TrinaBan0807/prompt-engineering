@@ -20,5 +20,483 @@ Compare the resume against the provided job description. And Return below output
 
 Gemini Response: As a recruitment analyst, I have evaluated your profile against the Gen AI Prompt Engineer job description. Here is the assessment:Match score: 85/100Missing skills:Explicit professional experience with vector databases and embedding-based retrieval (RAG) frameworks.  Direct, high-scale deployment experience with multi-modal AI specifically for audio and video generation.  Formal documentation of a structured A/B testing framework (e.g., using specific evaluation tools for LLM performance).  Strengths:Extensive engineering foundation in API development and SDLC management, which is vital for the job's requirement to integrate prompts into applications.  Proven ability to pivot from traditional middleware to Gen AI prompt engineering and microservices, showing high adaptability.  Deep language-processing expertise demonstrated through research on "Neural Segmentation for Language Learning Analytics".  Direct experience in "Prompt Optimization & Testing," specifically regarding identifying gaps and mitigating hallucinations in production environments.  Suggested improvements:Explicitly list "RAG" or "Vector Databases" in your skills section to align with the job's "nice to have" criteria.  Quantify your "significant" improvement in log analysis accuracy at Saks Cloud Services with specific performance metrics to better demonstrate your impact.  Highlight Python-based automation scripts used for testing or evaluating AI outputs to bolster your "basic scripting" profile.  Explicitly map your previous documentation experience (at IBM) to the job's requirement for "maintaining prompt documentation, versioning, and change logs".
 
+ChatGpt Response: Match Score: 89/100
+Missing Skills
+Anthropic Claude experience
+Explicit GPT-4/GPT-5 experience (currently listed as OpenAI GPT)
+Retrieval-Augmented Generation (RAG)
+Embeddings
+Vector Databases
+Few-Shot Prompting
+Chain-of-Thought Prompting
+Instruction Tuning
+AI API integration examples using Python/JavaScript
+Prompt versioning and change management practices (more explicit mention)
+Strengths
+Strong prompt engineering experience with LLM-based applications.
+Experience designing prompt flows and reusable prompt templates.
+Hands-on prompt optimization and iterative testing.
+Experience identifying and mitigating hallucinations in AI-generated outputs.
+A/B testing experience for prompt evaluation and response quality improvement.
+Exposure to OpenAI GPT and Google Gemini platforms.
+Strong analytical and problem-solving background from enterprise integration roles.
+Python knowledge aligns with the preferred technical requirements.
+Extensive API, microservices, and enterprise integration experience.
+Experience translating business requirements into technical solutions.
+Strong documentation and SDLC experience.
+Cross-functional collaboration with stakeholders and development teams.
+AI-focused publications demonstrate genuine interest and domain knowledge.
+Suggested Improvements
+Update LLM platforms section to include specific models such as GPT-4, GPT-5, and Claude if you have worked with them.
+Add a dedicated Prompt Engineering Skills section containing:
+Few-Shot Prompting
+Chain-of-Thought Prompting
+Instruction Tuning
+Prompt Libraries
+Prompt Evaluation
+Prompt Versioning
+Include a bullet highlighting collaboration with product, engineering, and business teams on AI solutions.
+Add measurable outcomes where possible (e.g., "Improved response accuracy by 25%" or "Reduced manual analysis time by 40%").
+Mention AI workflow automation if your current work involves automating business processes using LLMs.
+Include exposure to RAG, embeddings, or vector databases if applicable.
+Expand Python usage by mentioning API integration, automation scripts, or AI workflow development.
+Create a dedicated GenAI Projects section to make AI-related experience more prominent.
+Correct minor formatting issues (e.g., spacing in "responses for accuracy") to improve ATS parsing quality.
+Move AI/LLM experience closer to the top of the resume to better align with the target role.
+
+--------------------------------------------------------------------------------
+
+Prompt 3: 
+Provide the current weather in London, United Kingdom.
+
+Include:
+- Temperature (°C)
+- Feels-like temperature
+- Weather conditions
+- Humidity
+- Wind speed
+- Brief summary of today's forecast
+
+Present the information in bullet points.
+
+Gemini Response: Sunday • London, United Kingdom 
+
+ Temperature 
+ Precipitation 
+ Wind 
+
+21
+ °C 
+|
+ °F 
+Cloudy
+
+High: 22°Low: 13°Precip: 10%
+
+18
+
+
+10%
+
+21°
+
+19
+
+
+10%
+
+21°
+
+20
+
+
+0%
+
+20°
+
+21
+
+
+0%
+
+18°
+
+22
+
+
+0%
+
+17°
+
+23
+
+
+0%
+
+16°
+
+00
+
+
+0%
+
+15°
+
+01
+
+
+0%
+
+14°
+
+02
+
+
+5%
+
+14°
+
+03
+
+
+10%
+
+14°
+
+04
+
+
+10%
+
+13°
+
+05
+
+
+10%
+
+13°
+
+06
+
+
+25%
+
+13°
+
+07
+
+
+25%
+
+13°
+
+08
+
+
+20%
+
+14°
+
+09
+
+
+10%
+
+15°
+
+10
+
+
+10%
+
+16°
+
+11
+
+
+25%
+
+18°
+
+12
+
+
+20%
+
+19°
+
+13
+
+
+5%
+
+20°
+
+14
+
+
+10%
+
+21°
+
+15
+
+
+10%
+
+22°
+
+16
+
+
+10%
+
+22°
+
+17
+
+
+10%
+
+22°
+
+Google Weather
+Here is the current weather in London, United Kingdom:
+
+Temperature: 21°C
+
+Feels-like temperature: 24°C
+
+Weather conditions: Cloudy
+
+Humidity: 47%
+
+Wind speed: 4 mph from the northwest
+
+Brief summary of today's forecast: It is a cloudy day with a high of 22°C and a low of 13°C.
+
+ChatGpt response: Current weather for London:
+
+Temperature: 22°C
+Feels-like temperature: Approximately 22°C
+Conditions: Mostly cloudy
+Humidity: Not available in the current data
+Wind speed: Not available in the current data
+Today's forecast: A mix of clouds and sunshine, with temperatures around 20°C during the day and cooler conditions overnight near 11°C.
+
+London, Greater London, United Kingdom
+
+22°
+
+C
+
+/
+
+F
+
+Times of clouds and sun
+
+Sun
+
+20°
+
+11°
+
+Mon
+
+22°
+
+14°
+
+Tue
+
+25°
+
+16°
+
+Wed
+
+24°
+
+15°
+
+Thu
+
+27°
+
+18°
+
+Fri
+
+30°
+
+18°
+
+Sat
+
+26°
+
+16°
+
+Sun
+
+28°
+
+18°
+
+Temperature
+8pm
+11pm
+2am
+5am
+8am
+11am
+2pm
+5pm
+8pm
+11pm
+2am
+5am
+8am
+11am
+2pm
+5pm
+8pm
+11pm
+2am
+5am
+8am
+11am
+2pm
+5pm
+8pm
+11pm
+2am
+5am
+8am
+11am
+2pm
+5pm
+8pm
+11pm
+2am
+5am
+8am
+11am
+2pm
+5pm
+8pm
+11pm
+2am
+5am
+8am
+11am
+2pm
+5pm
+8pm
+11pm
+2am
+5am
+8am
+11am
+2pm
+5pm
+8pm
+11pm
+19°
+16°
+13°
+12°
+13°
+18°
+21°
+21°
+19°
+16°
+15°
+14°
+16°
+20°
+24°
+24°
+22°
+19°
+17°
+16°
+19°
+21°
+23°
+23°
+22°
+19°
+17°
+16°
+17°
+21°
+25°
+27°
+25°
+22°
+21°
+19°
+22°
+27°
+29°
+30°
+26°
+23°
+21°
+18°
+21°
+23°
+25°
+26°
+23°
+21°
+19°
+17°
+19°
+24°
+26°
+28°
+25°
+23°
+Give feedback
+
+Looking ahead, London is expected to warm up through the week, with temperatures reaching the upper 20s °C by the end of the week.
+
+-------------------------------------------------------------------------------------------
+Prompt: I am a 30-year-old Indian professional and have not followed the news today. Provide a concise news briefing covering the most important developments from the last 24 hours. Requirements: - Divide the news into National (India), International, and Sports sections. - Include the top 5 stories from each section. - Summarize each story in 2–3 lines. - Focus on developments with significant public, economic, political, or sporting impact. - Use simple, neutral language without opinion or speculation. - Mention why each story matters. - Present the output in bullet points.
+
+Gemini Response: Here is a concise briefing of the most important developments from the last 24 hours (as of June 14, 2026).National (India)PM Modi inaugurates Bharat Innovates 2026: Prime Minister Narendra Modi and French President Emmanuel Macron launched an innovation conference in Nice, pitching India as a global hub for technology and entrepreneurship. This matters as it signals a strategic push to attract international investment and research partnerships.  Indian crew rescued off Oman coast: All 14 crew members of an Indian-flagged dhow were safely rescued after their vessel sank due to mechanical failure. The successful rescue operation ensures the safety of Indian mariners involved in regional maritime commerce.  Finance Minister addresses Rupee fluctuations: Nirmala Sitharaman stated that the recent volatility in the Rupee against the U.S. Dollar is driven by global factors like geopolitical uncertainty and import dependence. This highlights the government's stance on maintaining market-driven exchange rates while curbing excessive volatility.  Army unveils new uniform policy: The Indian Army introduced "Army Uniforms–2026," a policy aimed at removing colonial-era practices and modernizing military traditions to better reflect contemporary Indian values. This reflects a significant institutional effort to decolonize military identity.  Protests over NEET and CBSE marking: Activists and the "Cockroach Janta Party" held protests in Bengaluru demanding the resignation of the Union Education Minister over alleged exam paper leaks. This highlights growing public dissatisfaction with the integrity of national-level competitive examinations.  InternationalUS blocks foreign access to AI models: The Trump administration has barred foreign nationals from accessing Anthropic’s top AI models, citing national security concerns and export controls. This move underscores the intensifying geopolitical competition over advanced AI technology and data security.  Security tightened ahead of G7 summit: Geneva has boarded up storefronts and implemented extreme security measures in anticipation of violent anti-G7 protests. The summit is a key focus for global economic policy and international diplomacy.  Trump's name removed from Kennedy Center: Following a court order, the President’s name has been officially removed from the facade of the Kennedy Center for the Performing Arts. This is a notable development in the ongoing legal and cultural tensions surrounding his administration.  Iran-US deal expectations: Reports indicate high anticipation regarding a potential deal between Iran and the United States, with some officials suggesting a signing could occur on Sunday. A successful deal would be a major shift in Middle Eastern geopolitical stability.  FIFA World Cup 2026 developments: Global attention remains fixed on the tournament, with recent matches including a 1-1 draw for Brazil against Morocco and a similar result for Qatar against Switzerland. The tournament continues to be a central event for international sports and global viewership.  Sports  India-Pakistan Women’s T20 World Cup clash: The arch-rivals faced off at Edgbaston, marked by tension as captains Harmanpreet Kaur and Fatima Sana notably skipped the handshake at the toss. This reflects the high-stakes and often strained nature of international cricket fixtures between the two nations.  Neeraj Chopra returns to squad: Star javelin thrower Neeraj Chopra has been provisionally added to the 2026 Commonwealth Games (CWG) squad following his recovery. His return is a major boost for India's medal prospects in upcoming international athletic meets.  New York Knicks win NBA Finals: The Knicks secured the championship by defeating the San Antonio Spurs 4-1 in the series, winning the decisive fifth game. This marks the culmination of one of the most competitive Finals series in recent years.  Tennessee Track & Field success: The Lady Vols finished 11th at the NCAA Outdoor Championships, achieving their best national performance since 1995 with multiple bronze-medal finishes. This highlights significant collegiate sporting achievements at the national level.  Brazil coach reacts to World Cup draw: Carlo Ancelotti expressed dissatisfaction with Brazil's performance following their 1-1 draw against Morocco, where they had to rally to save a point. This result serves as a wake-up call for one of the tournament's favorite teams.  
+
+ChatGpt Response: National (India)
+PM Modi arrives in France for G7-related engagements and bilateral talks. Discussions are expected to cover technology, trade, defense cooperation, and global economic issues. This matters because India is seeking a larger role in global governance and strategic partnerships.
+Monsoon progress remains a key national focus as weather systems advance across multiple states. Authorities continue monitoring rainfall patterns and preparedness measures. This matters because monsoon performance directly impacts agriculture, inflation, and water availability.
+Government and business circles are closely watching global economic developments ahead of major international meetings. Trade, supply chains, and energy security remain major agenda items. This matters because global policy decisions can influence India's growth outlook.
+Weather agencies continue issuing alerts for heavy rain and storm activity in several regions. State administrations are reviewing preparedness and response plans. This matters because extreme weather can affect transportation, agriculture, and public safety.
+India's international diplomacy remains active through multilateral engagements and strategic partnerships. Ongoing discussions focus on investment, innovation, and geopolitical cooperation. This matters because such engagements shape India's economic and security interests abroad.
+International
+Reports indicate progress in U.S.-Iran negotiations, though both sides have issued mixed signals. Mediators have suggested a potential breakthrough while officials continue to clarify the status of any agreement. This matters because it could affect Middle East stability and global energy markets.
+Tensions involving Iran and regional security remain a major global story. Diplomatic and military developments continue to be closely monitored by world powers. This matters because disruptions in the region can impact oil prices and international trade routes.
+The Russia-Ukraine conflict continues with attacks on logistics, infrastructure, and energy-related targets. Both sides are pursuing strategic operations aimed at weakening supply networks. This matters because the conflict continues to influence global security and commodity markets.
+World Cup-related security and logistics issues have attracted international attention. Severe weather warnings and operational disruptions have affected some participating teams. This matters because the tournament is one of the world's most-watched sporting events.
+Global attention remains focused on conflict zones and geopolitical flashpoints. Governments continue balancing diplomacy, security concerns, and economic interests. This matters because international instability can affect markets, trade, and foreign policy decisions worldwide.
+Sports
+India defeated Pakistan in the Women's T20 World Cup. India posted a strong total before restricting Pakistan to secure a convincing victory. This matters because India-Pakistan matches attract enormous viewership and influence tournament momentum.
+Australia upset Turkey 2–0 in their FIFA World Cup opener. Australia converted limited opportunities while defending effectively against sustained pressure. This matters because early World Cup results can significantly shape group standings.
+Scotland recorded its first FIFA World Cup victory in 36 years. A narrow win boosted Scotland's chances of advancing from the group stage. This matters because it marks a historic achievement for Scottish football.
+Brazil was held to a draw by Morocco in a closely watched World Cup match. Analysts highlighted concerns about Brazil's midfield performance. This matters because Brazil is among the tournament favorites and every result influences expectations.
+Neeraj Chopra has reportedly been provisionally included in India's 2026 Commonwealth Games plans after recovering from injury. Officials expect him to compete again soon. This matters because he remains one of India's biggest athletics stars and medal prospects.
+60-Second Executive Summary
+
+If you only remember five things from today:
+
+PM Modi is in France for major diplomatic engagements and international discussions.
+U.S.-Iran negotiations may be approaching a significant breakthrough.
+The Russia-Ukraine war continues to affect infrastructure and regional security.
+India beat Pakistan in the Women's T20 World Cup.
+The FIFA World Cup produced notable results, including Australia's win over Turkey and Scotland's historic victory.
 
 
